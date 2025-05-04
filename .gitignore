@@ -11,6 +11,8 @@ target/
 *.iws
 *.iml
 *.ipr
+# »гнорировать файлы компил€ции
+*.out
 
 ### Eclipse ###
 .apt_generated
